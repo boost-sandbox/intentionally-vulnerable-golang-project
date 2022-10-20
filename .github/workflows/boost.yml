@@ -36,4 +36,3 @@ jobs:
           api_endpoint: https://api.dev.boostsec.io
           api_token: ${{ secrets.BOOST_API_KEY_DEV }}
           registry_module: boostsecurityio/gosec
-          log_level: DEBUG
